@@ -5,4 +5,3 @@ void main()
     c=a-b;
     printf("Sub c=");
     scanf("%d",&c);
-}
